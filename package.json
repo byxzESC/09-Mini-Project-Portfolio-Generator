@@ -1,0 +1,23 @@
+{
+  "name": "09-mini-project-portfolio-generator",
+  "version": "1.0.0",
+  "description": "Portfolio generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byxzESC/09-Mini-Project-Portfolio-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byxzESC/09-Mini-Project-Portfolio-Generator/issues"
+  },
+  "homepage": "https://github.com/byxzESC/09-Mini-Project-Portfolio-Generator#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.4"
+  }
+}
